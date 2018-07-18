@@ -29,11 +29,11 @@ function draw(){
   pop();
 
 
-  instagram.position(1080/2-64,1800);
+  instagram.position(1080/2-64,1600);
   instagram.size(64,64);
   instagram.mousePressed(instagramLink);
 
-  facebook.position(1080/2+64,1800);
+  facebook.position(1080/2+64,1600);
   facebook.size(64,64);
   facebook.mousePressed(facebookLink);
 
