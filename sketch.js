@@ -45,8 +45,8 @@ function draw(){
   textSize(50);
   fill(0);
   text('Freitag 19-23 Uhr',400,700);
-  text('Samstag 19-23 Uhr',400,800);
-  text('Sonntag 19-23 Uhr',400,900);
+  text('Samstag 17-22 Uhr',400,800);
+  text('Sonntag 15-20 Uhr',400,900);
 }
 
 
