@@ -1,10 +1,11 @@
-
+function preload(){
+ vid= createVideo('Websitefootage.mov');
+}
 
 
 function setup(){
  background(0);
  createCanvas(1080,1920);
- vid= createVideo('Websitefootage.mov');
  vid.loop();
 
 
