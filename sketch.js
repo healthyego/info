@@ -34,7 +34,7 @@ function draw(){
 
   textSize(50);
 
-  fillrgb(232, 209, 238);
+  fill(232, 209, 238);
  
  
   text('Freitag 19-23 Uhr',350,700);
