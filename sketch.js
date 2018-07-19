@@ -1,12 +1,14 @@
+var n= round(random(1,4))
+
 function preload(){
- vid= createVideo('Websitefootage.mov');
+ img=loadImage("Pic/"+"n"+".jpg");
 }
 
 
 function setup(){
- background(0);
+ background(img);
  createCanvas(1080,1920);
- vid.loop();
+ 
 
 
  instagram= createImg('Instagram.png','clickable');
@@ -45,9 +47,9 @@ function draw(){
 
   textSize(50);
   fill(0);
-  text('Freitag 19-23 Uhr',400,700);
-  text('Samstag 17-22 Uhr',400,800);
-  text('Sonntag 15-20 Uhr',400,900);
+  text('Freitag 19-23 Uhr',350,700);
+  text('Samstag 17-22 Uhr',350,800);
+  text('Sonntag 15-20 Uhr',350,900);
 }
 
 
