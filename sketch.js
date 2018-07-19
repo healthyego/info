@@ -1,4 +1,5 @@
 var n;
+var img;
 
 function preload(){
  n=floor(random(1,4));
