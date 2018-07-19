@@ -41,11 +41,6 @@ function draw(){
   facebook.size(64,64);
   facebook.mousePressed(facebookLink);
 
-  push();
-  image(vid,0,0);
-  vid.hide();
-  pop();
-
   textSize(50);
  if (n=4){
   fill(100,100,20);
