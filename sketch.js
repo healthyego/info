@@ -33,11 +33,9 @@ function draw(){
 
 
   textSize(50);
- if (n=4){
-  fill(100,100,20);
- }else{
+
   fill(0);
- }
+ 
  
   text('Freitag 19-23 Uhr',350,700);
   text('Samstag 17-22 Uhr',350,800);
