@@ -1,8 +1,8 @@
 var n;
 
 function preload(){
- n=floor(random(1,4))
- img=loadImage("Pic/"+"n"+".jpg");
+ n=floor(random(1,4));
+ img=loadImage("Pic/"+n+".jpg");
 }
 
 
