@@ -1,7 +1,7 @@
 var n;
 
 function preload(){
- n=round(random(1,4))
+ n=floor(random(1,4))
  img=loadImage("Pic/"+"n"+".jpg");
 }
 
