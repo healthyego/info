@@ -1,4 +1,4 @@
-var n= floor(random(1,4))
+var n=round(random(1,4))
 
 function preload(){
  img=loadImage("Pic/"+"n"+".jpg");
