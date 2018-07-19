@@ -3,13 +3,13 @@ var img;
 
 function preload(){
  n=floor(random(1,4));
- img=loadImage("Pic/"+n+".jpg");
+ //img=loadImage("Pic/"+n+".jpg");
 }
 
 
 function setup(){
  createCanvas(1080,1920);
- background(img);
+ background(232, 209, 238)//(img);
 
  instagram= createImg('Instagram.png','clickable');
  facebook= createImg('Facebook.png','clickable');
@@ -34,7 +34,7 @@ function draw(){
 
   textSize(50);
 
-  fill(232, 209, 238);
+  fill(0);
  
  
   text('Freitag 19-23 Uhr',350,700);
