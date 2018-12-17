@@ -16,7 +16,7 @@ function setup(){
   // if(n<=0.7){
   // window.open(https://instagram.com/haelthyego/)
   //}else{
-   window.open(https://www.instagram.com/steamwaves.studios/)
+   window.open("https://www.instagram.com/steamwaves.studios/")
   
 }
 
