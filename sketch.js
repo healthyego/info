@@ -1,19 +1,18 @@
-var n;
+
 var img;
 
 function preload(){
- n=floor(random(1,4));
- //img=loadImage("Pic/"+n+".jpg");
+ img=loadImage("Plakat_I.png");
 }
 
 
 function setup(){
  createCanvas(1080,1920);
- background(232, 209, 238)//(img);
+ background(img);
 
  instagram= createImg('Instagram.png','clickable');
  facebook= createImg('Facebook.png','clickable');
- HEGarten= createImg('HEGarten.png','clickable');
+ //HEGarten= createImg('HEGarten.png','clickable');
 }
 
 function draw(){
