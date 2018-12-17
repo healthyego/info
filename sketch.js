@@ -13,10 +13,10 @@ function setup(){
 }
  
  function mousePressed(){
-   if(n<=0.7){
-   window.open(https://instagram.com/haelthyego/ );
-  }else{
-   window.open(https://www.instagram.com/steamwaves.studios/ ):
+  // if(n<=0.7){
+  // window.open(https://instagram.com/haelthyego/)
+  //}else{
+   window.open(https://www.instagram.com/steamwaves.studios/)
   }
 }
 
