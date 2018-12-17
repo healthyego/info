@@ -17,6 +17,6 @@ function setup(){
   // window.open(https://instagram.com/haelthyego/)
   //}else{
    window.open(https://www.instagram.com/steamwaves.studios/)
-  }
+  
 }
 
