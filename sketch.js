@@ -14,11 +14,11 @@ function setup(){
 
 function draw(){
  
- function mousePressed(){
-  if(n<=0.7){
-   window.open(https://instagram.com/haelthyego)
-  }else{
-   window.open(https://www.instagram.com/steamwaves.studios/)
-  }
- }
+ //function mousePressed(){
+ // if(n<=0.7){
+  // window.open(https://instagram.com/haelthyego)
+ // }else{
+  // window.open(https://www.instagram.com/steamwaves.studios/)
+  //}
+// }
 }
