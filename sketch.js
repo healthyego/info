@@ -10,5 +10,5 @@ function setup(){
 
 function draw(){ 
  imageMode(CENTER);
- image(img,windowWidth/2,windowHeight/2,1080,1920); 
+ image(img,windowWidth/2,windowHeight/2,height/1.7777,height); 
 }
