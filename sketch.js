@@ -2,7 +2,7 @@ var n;
 var img;
 
 function preload(){
- img=loadImage("Plakat_I.png");
+ img=loadImage("Entwurf2b.png");
 }
 
 
@@ -13,10 +13,6 @@ function setup(){
 }
  
  function mousePressed(){
-  if(n<=0.7){
-   window.open("https://instagram.com/haelthyego/")
-  }else{
-   window.open("https://www.instagram.com/steamwaves.studios/")
-  }
+  window.open("https://instagram.com/haelthyego/")
 }
 
