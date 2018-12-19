@@ -1,5 +1,5 @@
 function mousePressed(){
- // window.open("https://instagram.com/haelthyego/")
+ window.open("https://instagram.com/haelthyego/")
 }
 
 function setup(){
